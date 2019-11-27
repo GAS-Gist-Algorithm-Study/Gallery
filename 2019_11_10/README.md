@@ -1,6 +1,7 @@
 # 2019_11_10 GAS :tulip:
 
-## :school: Study :man_technologist: 임채현 (bkindtoevery1)
+## :coffee: Study 
+:man_technologist: 임채현 (bkindtoevery1)
 
 <center><img src = "https://github.com/GAS-Gist-Algorithm-Study/Gallery/blob/master/2019_11_10/KakaoTalk_20191110_153907378_01.jpg" width = "70%"></center>
 
