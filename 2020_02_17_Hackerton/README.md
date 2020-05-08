@@ -1,7 +1,7 @@
 # 2020_02_17
 
 GAS가 해커톤을 가진 날!
-눈이 엄청 많이 내렸다... :snowman:
+눈이 엄청 많이 내렸다...
 
 <center><img src = "https://github.com/GAS-Gist-Algorithm-Study/Gallery/blob/master/2020_02_17_Hackerton/2020_02_17_1.jpg" width = "70%"></center>
 

@@ -1,5 +1,6 @@
 # 2020_04_01 벚꽃놀이
-행복하게 벚꽃 구경
+
+행복하게 벚꽃 구경하기
 
 <center><img src = "https://github.com/GAS-Gist-Algorithm-Study/Gallery/blob/master/2020_04_01_cherryblossom/2020_04_01_3.jpg" width = "70%"></center>
 
