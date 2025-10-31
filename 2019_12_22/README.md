@@ -6,6 +6,8 @@
 
 <center><img src = "https://github.com/GAS-Gist-Algorithm-Study/Gallery/blob/master/2019_12_22/KakaoTalk_20200508_091405469.jpg" width = "70%"></center>
 
+<center><img src = "https://github.com/GAS-Gist-Algorithm-Study/Gallery/blob/master/2019_12_22/KakaoTalk_20200508_091406051.jpg" width = "70%"></center>
+
 <center><img src = "https://github.com/GAS-Gist-Algorithm-Study/Gallery/blob/master/2019_12_22/KakaoTalk_20200508_091406482.jpg" width = "70%"></center>
 
 <center><img src = "https://github.com/GAS-Gist-Algorithm-Study/Gallery/blob/master/2019_12_22/KakaoTalk_20200508_091407250.jpg" width = "70%"></center>
